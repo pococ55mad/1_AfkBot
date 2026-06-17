@@ -2,12 +2,12 @@
   "name": "Welcome_Everyone",
   "bot-account": {
     "username": "WelcomeGuys",
-    "password": "WelcomeGuys12",
+    "password": "WelcomeGuys_123",
     "type": "offline"
   },
   "server": {
-    "ip": "Fortdiessmp.aternos.me",
-    "port": 17011,
+    "ip": "Fortdies.play.hosting",
+    "port": 27711,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -32,7 +32,8 @@
       "repeat-delay": 120,
       "messages": [
         "yoo bhaiyo",
-        "kidher ho?",
+        "kidher ho bhai?",
+        "gg bro",
         "kya chall raha hai bhai"
       ]
     },
